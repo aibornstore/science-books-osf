@@ -1,0 +1,18 @@
+{
+  "title": "Парсинг - 1001 Proofs: Chapter 1",
+  "description": "1001 proofs/theorems in Парсинг",
+  "category": "Парсинг",
+  "tags": [
+    "mathematics",
+    "proofs",
+    "theorems",
+    "парсинг"
+  ],
+  "license": "CC-BY-4.0",
+  "contributors": [
+    {
+      "name": "Yuriy Aronov",
+      "email": "apohob5@gmail.com"
+    }
+  ]
+}

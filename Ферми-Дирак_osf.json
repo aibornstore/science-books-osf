@@ -1,0 +1,18 @@
+{
+  "title": "Ферми-Дирак - 1001 Proofs: Chapter 1",
+  "description": "1001 proofs/theorems in Ферми-Дирак",
+  "category": "Ферми-Дирак",
+  "tags": [
+    "mathematics",
+    "proofs",
+    "theorems",
+    "ферми-дирак"
+  ],
+  "license": "CC-BY-4.0",
+  "contributors": [
+    {
+      "name": "Yuriy Aronov",
+      "email": "apohob5@gmail.com"
+    }
+  ]
+}
